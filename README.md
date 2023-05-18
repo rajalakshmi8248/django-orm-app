@@ -44,6 +44,8 @@ admin.site.register(Student,StudentAdmin)
 ```
 
 ## OUTPUT
+![ORM](https://github.com/rajalakshmi8248/django-orm-app/assets/122860827/1c02c76b-284c-4da4-a1c4-6e5c3884587d)
+
 
 ![OUTPUT](./ORM.png)
 
